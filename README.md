@@ -30,5 +30,5 @@ Em resumo, Swift é uma linguagem de programação moderna, segura e eficiente, 
 Para saber mais: https://developer.apple.com/swift/ </p>
 
 <h6>Documentação e HIG</h6>
-<a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/" > The Swift Programming Language (5.9 beta) </a> <br>
-<a href="https://developer.apple.com/design/human-interface-guidelines"> Human Interface Guidelines </a>
+The Swift Programming Language (5.9 beta): <a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/" > Acesse aqui</a> <br>
+ Human Interface Guidelines: <a href="https://developer.apple.com/design/human-interface-guidelines"> Acesse aqui </a>
