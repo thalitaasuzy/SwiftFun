@@ -37,7 +37,7 @@ var profissoes = [
  ] 
 ```
 
-<h6>Tipos Opcionais</h6> 
+<h6>Opcionals</h6> 
 <p>Permitem representar a ausência de um valor em uma variável ou constante. Em outras palavras, um optional é uma forma de indicar que uma variável pode estar vazia, ou seja, não contém nenhum valor. </p> 
 
 ```swift
@@ -59,7 +59,7 @@ if let name = optionalName {
   greeting = "Hello, friend!"
 } //Output: "Hello, friend!"
 ```
-<h6>Tipos de Funções</h6>
+<h6>Functions</h6>
 <p>Não recebem nenhum argumento e não retornam nenhum valor.</p>
 
 ```swift
@@ -144,7 +144,7 @@ case .sabado, .domingo:
 
 ```
 
-<h6>Tuplas</h6>
+<h6>Tuples</h6>
 <p>Permitem agrupar valores de tipos diferentes.</p>
 
 ```swift
