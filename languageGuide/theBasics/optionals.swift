@@ -38,3 +38,15 @@ var totalPedidos: String? //It is the same as declaring that the value of totalP
 //Implicitly Unwrapped Optionals
 let possibleString: String? = "An optional string."
 let forcedString: String = possibleString! // requires an exclamation point
+
+//ex:
+
+var optionalName: String? = "José Bezerra"
+var greeting = "Hello!" //greeting precisa exister fora do escopo da função
+if let name = optionalName {
+    greeting = "Hello, \(name)"
+} else {
+  greeting = "Hello, dear!"
+}
+
+print (greeting)
